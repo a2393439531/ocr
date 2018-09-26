@@ -1,0 +1,6 @@
+com\example\ocr\HttpUtils.class
+com\example\ocr\Output.class
+com\example\ocr\HttpTest.class
+com\example\ocr\FileToBase64.class
+com\example\ocr\HttpUtils$1.class
+com\example\ocr\StartOcr.class
